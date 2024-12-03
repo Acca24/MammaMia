@@ -27,9 +27,6 @@
         "DaddyLiveHD":{
             "enabled":"1"
         }
-    "cb01new":{
-             "domain": "club"
-         },
  },
  "General":{
      "load_env": "0",
