@@ -1,13 +1,13 @@
 {
   "Siti": {
          "StreamingCommunity": {
-             "domain": "computer"
+             "domain": "asia"
          },
          "Filmpertutti": {
-             "domain": "diy"
+             "domain": "team"
          },
          "Tantifilm":{
-             "domain": "name"
+             "domain": "be"
          },
          "Mysterius":{
              "enabled": "1"    
@@ -27,6 +27,9 @@
         "DaddyLiveHD":{
             "enabled":"1"
         }
+    "cb01new":{
+             "domain": "club"
+         },
  },
  "General":{
      "load_env": "0",
